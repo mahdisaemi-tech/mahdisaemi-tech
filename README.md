@@ -46,6 +46,13 @@ I build reliable batch, streaming, and cloud data pipelines with a focus on data
 <br>
 <br>
 
+## 📌 Additional Project
+
+🩺 [Diabetes Logistic Regression](https://github.com/mahdisaemi-tech/diabetes-logistic-regression)<br>
+A small machine learning project using Python, pandas, and scikit-learn.
+<br>
+<br>
+
 ## 🔍 Core Skills
 
 - Python, SQL, Bash, Linux
