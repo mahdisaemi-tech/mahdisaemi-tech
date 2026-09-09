@@ -41,6 +41,9 @@ I build reliable batch, streaming, and cloud data pipelines with a focus on data
   📨 [Kafka Streaming Orders](https://github.com/mahdisaemi-tech/kafka-streaming-orders)<br>
   Kafka producer and consumer with schema validation, bounded reads, offsets, and tests.<br>
 
+  🤖 [Customer Risk ML Platform](https://github.com/mahdisaemi-tech/customer-risk-ml-platform)<br>
+  MLflow Registry, batch inference, Spark MLlib, Feast, validation, DLQ, and drift monitoring.<br>
+
   ✅ [LoanScope Data Quality](https://github.com/mahdisaemi-tech/loanscope-data-quality-observability)<br>
   Data validation, quality metrics, alert records, rejected data, and dashboard output.
 <br>
@@ -61,4 +64,5 @@ A small machine learning project using Python, pandas, and scikit-learn.
 - dbt, PostgreSQL, CDC
 - Spark, PySpark, Delta Lake, Databricks
 - Docker, pytest, Ruff, GitHub Actions
+- Machine Learning, scikit-learn, MLflow Model Registry, batch inference, Feast, drift monitoring
 - Data quality, validation, testing, and observability
